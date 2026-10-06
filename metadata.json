@@ -1,0 +1,6 @@
+{
+  "name": "GameNexus KR - 게임 공식/커뮤니티 및 최신 패치노트 통합 허브",
+  "description": "리그 오브 레전드, 배틀그라운드, 오버워치, 발로란트의 공식 사이트, 대표 커뮤니티 바로가기와 최신 뉴스 및 패치 노트 통합 포털",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
